@@ -1,0 +1,2 @@
+Nov 01 09:23:48 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[HY000] [1049] Unknown database 'test2'
+Nov 01 09:23:53 symfony [err] {Doctrine_Connection_Exception} PDO Connection Error: SQLSTATE[HY000] [1049] Unknown database 'test2'
